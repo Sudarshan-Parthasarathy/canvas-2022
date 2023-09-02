@@ -176,6 +176,13 @@
     "author_github_url": "https://github.com/BGS89"
   },
   {
+    "name": "Romania flag",
+    "page_link": "./art/Bri2/index.html",
+    "art_icon": "./art/Bri2/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll"
+  },
+  {
     "name": "Flag of Pinas",
     "page_link": "./art/Brienyll/index.html",
     "art_icon": "./art/Brienyll/icon.png",
@@ -301,6 +308,13 @@
     "author_github_url": "https://github.com/Kajanan02"
   },
   {
+    "name": "HacktoberFox",
+    "page_link": "./art/Karim-Daouas/index.html",
+    "art_icon": "./art/Karim-Daouas/icon.png",
+    "author_name": "Karim",
+    "author_github_url": "https://github.com/Karim-Daouas/"
+  },
+  {
     "name": "France Flag",
     "page_link": "./art/Kushagra/index.html",
     "art_icon": "./art/Kushagra/icon.png",
@@ -313,6 +327,13 @@
     "art_icon": "./art/Luxembourg/icon.png",
     "author_name": "Sunaina",
     "author_github_url": "https://github.com/sunainaagrwal"
+  },
+  {
+    "name": "My name",
+    "page_link": "./art/Mb16/index.html",
+    "art_icon": "./art/Mb16/icon.png",
+    "author_name": "Momojit Biswas",
+    "author_github_url": "https://github.com/mb16biswas"
   },
   {
     "name": "Egyptian Flag",
@@ -397,6 +418,13 @@
     "art_icon": "./art/Neha2/icon.png",
     "author_name": "Neha",
     "author_github_url": "https://github.com/Neha045"
+  },
+  {
+    "name": "Sky-Rangoli",
+    "page_link": "./art/Nilam/index.html",
+    "art_icon": "./art/Nilam/icon.png",
+    "author_name": "Nilam",
+    "author_github_url": "https://github.com/nilmeet/"
   },
   {
     "name": "Creeper",
@@ -819,6 +847,13 @@
     "author_github_url": "https://github.com/BrianWhelanDublin"
   },
   {
+    "name": "Nigeria flag",
+    "page_link": "./art/brie3/index.html",
+    "art_icon": "./art/brie3/icon.png",
+    "author_name": "Brien",
+    "author_github_url": "https://github.com/Brienyll"
+  },
+  {
     "name": "BubbleClick",
     "page_link": "./art/bubbleclick/index.html",
     "art_icon": "./art/bubbleclick/icon.png",
@@ -941,6 +976,13 @@
     "art_icon": "./art/galsreshef/icon.png",
     "author_name": "galsreshef",
     "author_github_url": "https://github.com/galsreshef/"
+  },
+  {
+    "name": "World Cup Expression",
+    "page_link": "./art/geronimoCostaPeuser/index.html",
+    "art_icon": "./art/geronimoCostaPeuser/icon.png",
+    "author_name": "Geronimo Costa Peuser",
+    "author_github_url": "https://github.com/GeronimoCostaPeuser"
   },
   {
     "name": "Continuous Glowing Intertwined",
